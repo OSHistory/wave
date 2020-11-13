@@ -30,7 +30,7 @@ You need to modify the `proxy.conf.json` file to point to a valid *MAPPING* inst
 ```
 rm -rf node_modules package-lock.json
 npm install
-npm start
+npm run serve:wave
 ```
 You can visit `http://localhost:4200/`.
 
